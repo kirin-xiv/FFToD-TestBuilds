@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "kirin-xiv",
+    "Name": "Truth or Dare (TEST BUILD)",
+    "Punchline": "Configurable winner selection test build",
+    "Description": "TEST BUILD: Automated Truth or Dare game management with configurable duplicate winner prevention and exclusion targeting. This is a test version with experimental features.",
+    "InternalName": "FFToD",
+    "AssemblyVersion": "2.4.7.0",
+    "RepoUrl": "https://github.com/kirin-xiv/FFToD-TestBuilds",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "CanUnloadAsync": false,
+    "ImageUrls": [],
+    "DownloadUrl": "https://github.com/kirin-xiv/FFToD-TestBuilds/raw/main/FFToD.dll",
+    "DownloadCount": 0,
+    "LastUpdate": "0",
+    "LoadRequiredState": 0,
+    "CategoryTags": [
+      "social",
+      "games",
+      "roleplay"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true
+  }
+]
