@@ -1,30 +1,28 @@
 [
   {
-    "Author": "kirin-xiv",
+    "Author": "Kirin",
     "Name": "Truth or Dare (TEST BUILD)",
-    "Punchline": "Configurable winner selection test build",
-    "Description": "TEST BUILD: Automated Truth or Dare game management with configurable duplicate winner prevention and exclusion targeting. This is a test version with experimental features.",
     "InternalName": "FFToD",
     "AssemblyVersion": "2.4.7.0",
-    "RepoUrl": "https://github.com/kirin-xiv/FFToD-TestBuilds",
+    "Description": "TEST BUILD: Truth or Dare mini-game automation with configurable winner selection features. This is a test version with experimental duplicate prevention and exclusion targeting options.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
+    "RepoUrl": "https://github.com/kirin-xiv/FFToD-TestBuilds",
+    "Tags": ["minigame", "social", "chat", "automation", "rolls", "test"],
+    "DalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
-    "LoadPriority": 0,
     "CanUnloadAsync": false,
-    "ImageUrls": [],
-    "DownloadUrl": "https://github.com/kirin-xiv/FFToD-TestBuilds/raw/main/FFToD.dll",
-    "DownloadCount": 0,
-    "LastUpdate": "0",
-    "LoadRequiredState": 0,
-    "CategoryTags": [
-      "social",
-      "games",
-      "roleplay"
-    ],
+    "LoadPriority": 0,
+    "Punchline": "TEST: Configurable winner selection features",
+    "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AcceptsFeedback": true
+    "DownloadLinkInstall": "https://github.com/kirin-xiv/FFToD-TestBuilds/raw/main/FFToD.dll",
+    "DownloadLinkUpdate": "https://github.com/kirin-xiv/FFToD-TestBuilds/raw/main/FFToD.dll",
+    "DownloadLinkTesting": "https://github.com/kirin-xiv/FFToD-TestBuilds/raw/main/FFToD.dll",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "ImageUrls": [],
+    "Changelog": "TEST BUILD: Added configurable duplicate winner prevention (disabled/prevent consecutive) and configurable exclusion system (exclude highest/lowest rollers). New UI controls in Game Settings."
   }
 ]
